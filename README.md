@@ -7,7 +7,7 @@ Proyecto web personal desarrollado con HTML, CSS y JavaScript como práctica de 
 ## 📋 Descripción
 
 Portfolio web estático que muestra información personal, habilidades y proyectos. El objetivo principal de esta práctica es aplicar un flujo de trabajo Git estructurado con ramas, commits semánticos y resolución de conflictos.
-
+  
 ---
 
 ## 🛠️ Tecnologías usadas
